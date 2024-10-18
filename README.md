@@ -63,7 +63,7 @@ The project utilizes various Node.js modules and libraries to achieve this, ensu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/challenge-1-data-pipeline.git
+   git clone https://github.com/VishwajithP2308/DataPipeline.git
    ```
 
 2. Navigate to the project directory:
